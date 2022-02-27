@@ -4,7 +4,7 @@ import Layout from '../components/Theme/Layout'
 
 export default function Home() {
   return (
-    <Layout title="TEsting title">
+    <Layout title="Check2Check">
     <div className={styles.container}>
 
       <main className={styles.main}>
